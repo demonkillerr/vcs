@@ -1,0 +1,5 @@
+hi iste
+
+hello
+
+this is a git seminar
